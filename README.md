@@ -1,1 +1,1 @@
-# movie-review-sentiment-analysis-using-simple-RNN
+# movie review sentiment analysis using simple RNN
